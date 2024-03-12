@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 halo ini pesan dari branch pertama terimakasih!
+=======
+ini adalah pesan dari branch kedua di dalam 2ndbranch 
+ini menggunakan kode tulisan 
+>>>>>>> 2ndbranch
